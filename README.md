@@ -15,7 +15,7 @@ Step 6: Perform exact inference using the defined evidence and query variables.<
 Step 7: Print the results.<br>
 
 ## Program :
-```
+```python
 # Importing Library
 from pgmpy.models import BayesianNetwork
 from pgmpy.inference import VariableElimination
